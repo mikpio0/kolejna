@@ -1,0 +1,20 @@
+.Witamy
+{
+	    background-image: url(img/Tło.jpg);
+		height:1080px;
+background-repeat:no-repeat;
+background-position:center;
+
+}
+
+.H2
+{
+	font-style: italic;
+	text-align:center;
+	padding:15px;
+}
+
+.stopka
+{
+	font-size:10px
+}
